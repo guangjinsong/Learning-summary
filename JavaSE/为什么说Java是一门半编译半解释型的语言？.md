@@ -1,4 +1,4 @@
-# 1. 编译型语言与解释性语言的区别
+# 1. 编译型语言与解释型语言的区别
 
 ![image-20231029095852485](https://dawn1314.oss-cn-beijing.aliyuncs.com/typoraimg/202310290958567.png)
 
